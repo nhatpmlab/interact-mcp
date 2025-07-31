@@ -2,6 +2,10 @@
 
 Developed by **Pham Minh Nhat** (`nhatpm.lab`) - [nhatpm.lab@gmail.com](mailto:nhatpm.lab@gmail.com)
 
+<a href="https://glama.ai/mcp/servers/@nhatpmlab/interact-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@nhatpmlab/interact-mcp/badge" alt="Interactive Feedback MCP server" />
+</a>
+
 ## 🔒 Project Attribution
 
 > Maintained by **Pham Minh Nhat** (`nhatpm.lab`)  
